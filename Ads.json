@@ -1,19 +1,19 @@
 {
          "max_count_ads": "10",
          
-         "our_ads1_activation":"false",
+         "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barry%20Ads%20Small-inter%20grannyCode.png",
     "our_ads1_link_url":"https://apps.apple.com/us/app/escape-barry-prison-mod-obby/id6504435667",
 
-    "our_ads2_activation":"false",
+    "our_ads2_activation":"true",
     "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds3.png",
     "our_ads2_link_url":"https://apps.apple.com/us/app/escape-barry-prison-mod-obby/id6504435667",
 
-    "our_ads3_activation":"false",
+    "our_ads3_activation":"true",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barryAds4.png",
     "our_ads3_link_url":"https://apps.apple.com/us/app/escape-barry-prison-mod-obby/id6504435667",
 
-    "our_ads_inter_activation":"false",
+    "our_ads_inter_activation":"true",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barry%20Ads%20Large-inter.png",
     "our_ads_inter_link_url":"https://apps.apple.com/us/app/escape-barry-prison-mod-obby/id6504435667",
 
@@ -22,7 +22,7 @@
   "admob_interstitial": "",
   "admob_rewarded_video": "",
 
-  "unity_app_id": "",
+  "unity_app_id": "5658974",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded_video": "Rewarded_Android",
